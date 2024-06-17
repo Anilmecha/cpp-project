@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\C++\LoginAppProject\build\x64\Debug\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\C++\LoginAppProject\build\out\build\x64-debug\Debug\libcurl-d.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\C++\LoginAppProject\build\out\build\x64-debug\Debug\cpr.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\C++\LoginAppProject\build\out\build\x64-debug\Debug\LoginAppProject.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\C++\LoginAppProject\build\x64\Debug\opts-man</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\C++\LoginAppProject\build\x64\Debug\man</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\C++\LoginAppProject\build\out\build\x64-debug\Debug\zlib.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\C++\LoginAppProject\build\x64\Debug\ALL_BUILD</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

@@ -1,0 +1,1848 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeDetermineSystem.cmake:233 (message)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      The system is: Windows - 10.0.19045 - AMD64
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+      Compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/cl.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      Microsoft (R) C/C++ Optimizing Compiler Version 19.40.33811 for x64
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+      
+      CMakeCCompilerId.c
+      Microsoft (R) Incremental Linker Version 14.40.33811.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+      
+      /out:CMakeCCompilerId.exe 
+      CMakeCCompilerId.obj 
+      
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+      
+      The C compiler identification is MSVC, found in:
+        C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/3.28.3-msvc11/CompilerIdC/CMakeCCompilerId.exe
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:1182 (message)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:247 (CMAKE_DETERMINE_MSVC_SHOWINCLUDES_PREFIX)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Detecting C compiler /showIncludes prefix:
+        main.c
+        Note: including file: C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\ShowIncludes\\foo.h
+        
+      Found prefix "Note: including file: "
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+      Compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx64/x64/cl.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      Microsoft (R) C/C++ Optimizing Compiler Version 19.40.33811 for x64
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+      
+      CMakeCXXCompilerId.cpp
+      Microsoft (R) Incremental Linker Version 14.40.33811.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+      
+      /out:CMakeCXXCompilerId.exe 
+      CMakeCXXCompilerId.obj 
+      
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+      
+      The CXX compiler identification is MSVC, found in:
+        C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/3.28.3-msvc11/CompilerIdCXX/CMakeCXXCompilerId.exe
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:1182 (message)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerId.cmake:247 (CMAKE_DETERMINE_MSVC_SHOWINCLUDES_PREFIX)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Detecting CXX compiler /showIncludes prefix:
+        main.c
+        Note: including file: C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\ShowIncludes\\foo.h
+        
+      Found prefix "Note: including file: "
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    checks:
+      - "Detecting C compiler ABI info"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-ywk7mf"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-ywk7mf"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+    buildResult:
+      variable: "CMAKE_C_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-ywk7mf'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_b1de1
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_b1de1.dir\\CMakeCCompilerABI.c.obj /FdCMakeFiles\\cmTC_b1de1.dir\\ /FS -c "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.28\\Modules\\CMakeCCompilerABI.c"
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_b1de1.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_b1de1.dir\\CMakeCCompilerABI.c.obj  /out:cmTC_b1de1.exe /implib:cmTC_b1de1.lib /pdb:cmTC_b1de1.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    checks:
+      - "Detecting CXX compiler ABI info"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-w8jbdj"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-w8jbdj"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+    buildResult:
+      variable: "CMAKE_CXX_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-w8jbdj'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_94f7b
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_94f7b.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_94f7b.dir\\ /FS -c "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.28\\Modules\\CMakeCXXCompilerABI.cpp"
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_94f7b.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_94f7b.dir\\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_94f7b.exe /implib:cmTC_94f7b.lib /pdb:cmTC_94f7b.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_run-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/Internal/CheckSourceRuns.cmake:93 (try_run)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckCXXSourceRuns.cmake:52 (cmake_check_source_runs)"
+      - "out/build/x64-release/_deps/cpr-src/cmake/sanitizer.cmake:12 (check_cxx_source_runs)"
+      - "out/build/x64-release/_deps/cpr-src/CMakeLists.txt:87 (include)"
+    checks:
+      - "Performing Test THREAD_SANITIZER_AVAILABLE"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-z561vp"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-z561vp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+    buildResult:
+      variable: "THREAD_SANITIZER_AVAILABLE_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-z561vp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_0c964
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DTHREAD_SANITIZER_AVAILABLE  /DWIN32 /D_WINDOWS /W3 /GR /EHsc -fsanitize=thread /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 /showIncludes /FoCMakeFiles\\cmTC_0c964.dir\\src.cxx.obj /FdCMakeFiles\\cmTC_0c964.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-z561vp\\src.cxx
+        cl : Command line warning D9002 : ignoring unknown option '-fsanitize=thread'
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_0c964.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_0c964.dir\\src.cxx.obj  /out:cmTC_0c964.exe /implib:cmTC_0c964.lib /pdb:cmTC_0c964.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+    runResult:
+      variable: "THREAD_SANITIZER_AVAILABLE_EXITCODE"
+      cached: true
+      stdout: |
+      stderr: |
+      exitCode: 0
+  -
+    kind: "try_run-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/Internal/CheckSourceRuns.cmake:93 (try_run)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckCXXSourceRuns.cmake:52 (cmake_check_source_runs)"
+      - "out/build/x64-release/_deps/cpr-src/cmake/sanitizer.cmake:20 (check_cxx_source_runs)"
+      - "out/build/x64-release/_deps/cpr-src/CMakeLists.txt:87 (include)"
+    checks:
+      - "Performing Test ADDRESS_SANITIZER_AVAILABLE"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-jrjql2"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-jrjql2"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+    buildResult:
+      variable: "ADDRESS_SANITIZER_AVAILABLE_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-jrjql2'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_5af30
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DADDRESS_SANITIZER_AVAILABLE  /DWIN32 /D_WINDOWS /W3 /GR /EHsc -fsanitize=address /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 /showIncludes /FoCMakeFiles\\cmTC_5af30.dir\\src.cxx.obj /FdCMakeFiles\\cmTC_5af30.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-jrjql2\\src.cxx
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_5af30.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_5af30.dir\\src.cxx.obj  /out:cmTC_5af30.exe /implib:cmTC_5af30.lib /pdb:cmTC_5af30.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+    runResult:
+      variable: "ADDRESS_SANITIZER_AVAILABLE_EXITCODE"
+      cached: true
+      stdout: |
+      stderr: |
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/Internal/CheckCompilerFlag.cmake:18 (cmake_check_source_compiles)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckCXXCompilerFlag.cmake:34 (cmake_check_compiler_flag)"
+      - "out/build/x64-release/_deps/cpr-src/cmake/sanitizer.cmake:28 (check_cxx_compiler_flag)"
+      - "out/build/x64-release/_deps/cpr-src/CMakeLists.txt:87 (include)"
+    checks:
+      - "Performing Test LEAK_SANITIZER_AVAILABLE"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-jhsagf"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-jhsagf"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+    buildResult:
+      variable: "LEAK_SANITIZER_AVAILABLE"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-jhsagf'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_3aba4
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DLEAK_SANITIZER_AVAILABLE  /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Zi /Ob0 /Od /RTC1 -std:c++17   -fsanitize=leak /showIncludes /FoCMakeFiles\\cmTC_3aba4.dir\\src.cxx.obj /FdCMakeFiles\\cmTC_3aba4.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-jhsagf\\src.cxx
+        cl : Command line warning D9002 : ignoring unknown option '-fsanitize=leak'
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_3aba4.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_3aba4.dir\\src.cxx.obj  /out:cmTC_3aba4.exe /implib:cmTC_3aba4.lib /pdb:cmTC_3aba4.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/Internal/CheckCompilerFlag.cmake:18 (cmake_check_source_compiles)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckCXXCompilerFlag.cmake:34 (cmake_check_compiler_flag)"
+      - "out/build/x64-release/_deps/cpr-src/cmake/sanitizer.cmake:35 (check_cxx_compiler_flag)"
+      - "out/build/x64-release/_deps/cpr-src/CMakeLists.txt:87 (include)"
+    checks:
+      - "Performing Test UNDEFINED_BEHAVIOUR_SANITIZER_AVAILABLE"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-pwwyzj"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-pwwyzj"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+    buildResult:
+      variable: "UNDEFINED_BEHAVIOUR_SANITIZER_AVAILABLE"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-pwwyzj'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_7ef29
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DUNDEFINED_BEHAVIOUR_SANITIZER_AVAILABLE  /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Zi /Ob0 /Od /RTC1 -std:c++17   -fsanitize=undefined /showIncludes /FoCMakeFiles\\cmTC_7ef29.dir\\src.cxx.obj /FdCMakeFiles\\cmTC_7ef29.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-pwwyzj\\src.cxx
+        cl : Command line warning D9002 : ignoring unknown option '-fsanitize=undefined'
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_7ef29.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_7ef29.dir\\src.cxx.obj  /out:cmTC_7ef29.exe /implib:cmTC_7ef29.lib /pdb:cmTC_7ef29.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_run-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/Internal/CheckSourceRuns.cmake:93 (try_run)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckCXXSourceRuns.cmake:52 (cmake_check_source_runs)"
+      - "out/build/x64-release/_deps/cpr-src/cmake/sanitizer.cmake:44 (check_cxx_source_runs)"
+      - "out/build/x64-release/_deps/cpr-src/CMakeLists.txt:87 (include)"
+    checks:
+      - "Performing Test ALL_SANITIZERS_AVAILABLE"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-b1k9ya"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-b1k9ya"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
+      CMAKE_CXX_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+    buildResult:
+      variable: "ALL_SANITIZERS_AVAILABLE_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-b1k9ya'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_d8e59
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DALL_SANITIZERS_AVAILABLE  /DWIN32 /D_WINDOWS /W3 /GR /EHsc  -fsanitize=address /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 /showIncludes /FoCMakeFiles\\cmTC_d8e59.dir\\src.cxx.obj /FdCMakeFiles\\cmTC_d8e59.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-b1k9ya\\src.cxx
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_d8e59.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_d8e59.dir\\src.cxx.obj  /out:cmTC_d8e59.exe /implib:cmTC_d8e59.lib /pdb:cmTC_d8e59.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+    runResult:
+      variable: "ALL_SANITIZERS_AVAILABLE_EXITCODE"
+      cached: true
+      stdout: |
+      stderr: |
+      exitCode: 0
+...
+
+---
+events:
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:304 (check_include_file)"
+    checks:
+      - "Looking for sys/auxv.h"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-b7p88i"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-b7p88i"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_SYS_AUXV_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-b7p88i'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_a824d
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_a824d.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_a824d.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-b7p88i\\CheckIncludeFile.c
+        FAILED: CMakeFiles/cmTC_a824d.dir/CheckIncludeFile.c.obj 
+        C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_a824d.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_a824d.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-b7p88i\\CheckIncludeFile.c
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-b7p88i\\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'sys/auxv.h': No such file or directory
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:308 (check_include_file)"
+    checks:
+      - "Looking for sys/sdt.h"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-bztwhe"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-bztwhe"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_SYS_SDT_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-bztwhe'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_dc472
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_dc472.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_dc472.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-bztwhe\\CheckIncludeFile.c
+        FAILED: CMakeFiles/cmTC_dc472.dir/CheckIncludeFile.c.obj 
+        C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_dc472.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_dc472.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-bztwhe\\CheckIncludeFile.c
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-bztwhe\\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'sys/sdt.h': No such file or directory
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:312 (check_include_file)"
+    checks:
+      - "Looking for unistd.h"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-yx6eix"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-yx6eix"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_UNISTD_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-yx6eix'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_1c0a1
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_1c0a1.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_1c0a1.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-yx6eix\\CheckIncludeFile.c
+        FAILED: CMakeFiles/cmTC_1c0a1.dir/CheckIncludeFile.c.obj 
+        C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_1c0a1.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_1c0a1.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-yx6eix\\CheckIncludeFile.c
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-yx6eix\\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'unistd.h': No such file or directory
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckTypeSize.cmake:250 (check_include_file)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:318 (check_type_size)"
+    checks:
+      - "Looking for sys/types.h"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-gp4p90"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-gp4p90"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_SYS_TYPES_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-gp4p90'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_59144
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_LARGEFILE64_SOURCE=1 -D__USE_LARGEFILE64  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_59144.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_59144.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-gp4p90\\CheckIncludeFile.c
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_59144.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_59144.dir\\CheckIncludeFile.c.obj  /out:cmTC_59144.exe /implib:cmTC_59144.lib /pdb:cmTC_59144.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckTypeSize.cmake:251 (check_include_file)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:318 (check_type_size)"
+    checks:
+      - "Looking for stdint.h"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-r5srg4"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-r5srg4"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_STDINT_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-r5srg4'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_8b595
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_LARGEFILE64_SOURCE=1 -D__USE_LARGEFILE64  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_8b595.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_8b595.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-r5srg4\\CheckIncludeFile.c
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_8b595.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_8b595.dir\\CheckIncludeFile.c.obj  /out:cmTC_8b595.exe /implib:cmTC_8b595.lib /pdb:cmTC_8b595.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckTypeSize.cmake:252 (check_include_file)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:318 (check_type_size)"
+    checks:
+      - "Looking for stddef.h"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-groz8f"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-groz8f"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_STDDEF_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-groz8f'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_758e2
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_LARGEFILE64_SOURCE=1 -D__USE_LARGEFILE64  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_758e2.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_758e2.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-groz8f\\CheckIncludeFile.c
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_758e2.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_758e2.dir\\CheckIncludeFile.c.obj  /out:cmTC_758e2.exe /implib:cmTC_758e2.lib /pdb:cmTC_758e2.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckTypeSize.cmake:146 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckTypeSize.cmake:271 (__check_type_size_impl)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:318 (check_type_size)"
+    checks:
+      - "Check size of off64_t"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-ha5xul"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-ha5xul"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_OFF64_T"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-ha5xul'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_e3c52
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_LARGEFILE64_SOURCE=1 -D__USE_LARGEFILE64  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_e3c52.dir\\OFF64_T.c.obj /FdCMakeFiles\\cmTC_e3c52.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-ha5xul\\OFF64_T.c
+        FAILED: CMakeFiles/cmTC_e3c52.dir/OFF64_T.c.obj 
+        C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_LARGEFILE64_SOURCE=1 -D__USE_LARGEFILE64  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_e3c52.dir\\OFF64_T.c.obj /FdCMakeFiles\\cmTC_e3c52.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-ha5xul\\OFF64_T.c
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-ha5xul\\OFF64_T.c(29): error C2065: 'off64_t': undeclared identifier
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-ha5xul\\OFF64_T.c(30): error C2065: 'off64_t': undeclared identifier
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-ha5xul\\OFF64_T.c(31): error C2065: 'off64_t': undeclared identifier
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-ha5xul\\OFF64_T.c(32): error C2065: 'off64_t': undeclared identifier
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-ha5xul\\OFF64_T.c(33): error C2065: 'off64_t': undeclared identifier
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckTypeSize.cmake:146 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckTypeSize.cmake:271 (__check_type_size_impl)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:322 (check_type_size)"
+    checks:
+      - "Check size of _off64_t"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-dc7c4u"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-dc7c4u"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE__OFF64_T"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-dc7c4u'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_0bb0d
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_LARGEFILE64_SOURCE=1 -D__USE_LARGEFILE64  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_0bb0d.dir\\_OFF64_T.c.obj /FdCMakeFiles\\cmTC_0bb0d.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-dc7c4u\\_OFF64_T.c
+        FAILED: CMakeFiles/cmTC_0bb0d.dir/_OFF64_T.c.obj 
+        C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_LARGEFILE64_SOURCE=1 -D__USE_LARGEFILE64  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_0bb0d.dir\\_OFF64_T.c.obj /FdCMakeFiles\\cmTC_0bb0d.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-dc7c4u\\_OFF64_T.c
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-dc7c4u\\_OFF64_T.c(29): error C2065: '_off64_t': undeclared identifier
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-dc7c4u\\_OFF64_T.c(30): error C2065: '_off64_t': undeclared identifier
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-dc7c4u\\_OFF64_T.c(31): error C2065: '_off64_t': undeclared identifier
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-dc7c4u\\_OFF64_T.c(32): error C2065: '_off64_t': undeclared identifier
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-dc7c4u\\_OFF64_T.c(33): error C2065: '_off64_t': undeclared identifier
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckTypeSize.cmake:146 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckTypeSize.cmake:271 (__check_type_size_impl)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:326 (check_type_size)"
+    checks:
+      - "Check size of __off64_t"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-566iak"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-566iak"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE___OFF64_T"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-566iak'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_58e6c
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_LARGEFILE64_SOURCE=1 -D__USE_LARGEFILE64  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_58e6c.dir\\__OFF64_T.c.obj /FdCMakeFiles\\cmTC_58e6c.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-566iak\\__OFF64_T.c
+        FAILED: CMakeFiles/cmTC_58e6c.dir/__OFF64_T.c.obj 
+        C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_LARGEFILE64_SOURCE=1 -D__USE_LARGEFILE64  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_58e6c.dir\\__OFF64_T.c.obj /FdCMakeFiles\\cmTC_58e6c.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-566iak\\__OFF64_T.c
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-566iak\\__OFF64_T.c(29): error C2065: '__off64_t': undeclared identifier
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-566iak\\__OFF64_T.c(30): error C2065: '__off64_t': undeclared identifier
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-566iak\\__OFF64_T.c(31): error C2065: '__off64_t': undeclared identifier
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-566iak\\__OFF64_T.c(32): error C2065: '__off64_t': undeclared identifier
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-566iak\\__OFF64_T.c(33): error C2065: '__off64_t': undeclared identifier
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckFunctionExists.cmake:86 (try_compile)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:334 (check_function_exists)"
+    checks:
+      - "Looking for fseeko"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-tmtdz1"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-tmtdz1"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_FSEEKO"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-tmtdz1'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_f741d
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DCHECK_FUNCTION_EXISTS=fseeko /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_f741d.dir\\CheckFunctionExists.c.obj /FdCMakeFiles\\cmTC_f741d.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-tmtdz1\\CheckFunctionExists.c
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_f741d.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_f741d.dir\\CheckFunctionExists.c.obj  /out:cmTC_f741d.exe /implib:cmTC_f741d.lib /pdb:cmTC_f741d.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        FAILED: cmTC_f741d.exe 
+        C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_f741d.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_f741d.dir\\CheckFunctionExists.c.obj  /out:cmTC_f741d.exe /implib:cmTC_f741d.lib /pdb:cmTC_f741d.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        LINK Pass 1: command "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_f741d.dir\\CheckFunctionExists.c.obj /out:cmTC_f741d.exe /implib:cmTC_f741d.lib /pdb:cmTC_f741d.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_f741d.dir/intermediate.manifest CMakeFiles\\cmTC_f741d.dir/manifest.res" failed (exit code 1120) with the following output:
+        CheckFunctionExists.c.obj : error LNK2019: unresolved external symbol fseeko referenced in function main\x0d
+        cmTC_f741d.exe : fatal error LNK1120: 1 unresolved externals\x0d
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckFunctionExists.cmake:86 (try_compile)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:339 (check_function_exists)"
+    checks:
+      - "Looking for strerror"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-jbv0fy"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-jbv0fy"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_STRERROR"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-jbv0fy'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_06f95
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DCHECK_FUNCTION_EXISTS=strerror /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_06f95.dir\\CheckFunctionExists.c.obj /FdCMakeFiles\\cmTC_06f95.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-jbv0fy\\CheckFunctionExists.c
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_06f95.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_06f95.dir\\CheckFunctionExists.c.obj  /out:cmTC_06f95.exe /implib:cmTC_06f95.lib /pdb:cmTC_06f95.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+
+---
+events:
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:304 (check_include_file)"
+    checks:
+      - "Looking for sys/auxv.h"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-ndfdgv"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-ndfdgv"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_SYS_AUXV_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-ndfdgv'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_4dccc
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_4dccc.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_4dccc.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-ndfdgv\\CheckIncludeFile.c
+        FAILED: CMakeFiles/cmTC_4dccc.dir/CheckIncludeFile.c.obj 
+        C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_4dccc.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_4dccc.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-ndfdgv\\CheckIncludeFile.c
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-ndfdgv\\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'sys/auxv.h': No such file or directory
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:308 (check_include_file)"
+    checks:
+      - "Looking for sys/sdt.h"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-6787sh"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-6787sh"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_SYS_SDT_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-6787sh'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_fe395
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_fe395.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_fe395.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-6787sh\\CheckIncludeFile.c
+        FAILED: CMakeFiles/cmTC_fe395.dir/CheckIncludeFile.c.obj 
+        C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_fe395.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_fe395.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-6787sh\\CheckIncludeFile.c
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-6787sh\\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'sys/sdt.h': No such file or directory
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:312 (check_include_file)"
+    checks:
+      - "Looking for unistd.h"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-h6174g"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-h6174g"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_UNISTD_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-h6174g'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_184d4
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_184d4.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_184d4.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-h6174g\\CheckIncludeFile.c
+        FAILED: CMakeFiles/cmTC_184d4.dir/CheckIncludeFile.c.obj 
+        C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_184d4.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_184d4.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-h6174g\\CheckIncludeFile.c
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-h6174g\\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'unistd.h': No such file or directory
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckTypeSize.cmake:250 (check_include_file)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:318 (check_type_size)"
+    checks:
+      - "Looking for sys/types.h"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-zsabxz"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-zsabxz"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_SYS_TYPES_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-zsabxz'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_32553
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_LARGEFILE64_SOURCE=1 -D__USE_LARGEFILE64  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_32553.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_32553.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-zsabxz\\CheckIncludeFile.c
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_32553.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_32553.dir\\CheckIncludeFile.c.obj  /out:cmTC_32553.exe /implib:cmTC_32553.lib /pdb:cmTC_32553.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckTypeSize.cmake:251 (check_include_file)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:318 (check_type_size)"
+    checks:
+      - "Looking for stdint.h"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-q7j3pj"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-q7j3pj"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_STDINT_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-q7j3pj'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_9f54e
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_LARGEFILE64_SOURCE=1 -D__USE_LARGEFILE64  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_9f54e.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_9f54e.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-q7j3pj\\CheckIncludeFile.c
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_9f54e.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_9f54e.dir\\CheckIncludeFile.c.obj  /out:cmTC_9f54e.exe /implib:cmTC_9f54e.lib /pdb:cmTC_9f54e.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckTypeSize.cmake:252 (check_include_file)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:318 (check_type_size)"
+    checks:
+      - "Looking for stddef.h"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-luikkv"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-luikkv"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_STDDEF_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-luikkv'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_378bc
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_LARGEFILE64_SOURCE=1 -D__USE_LARGEFILE64  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_378bc.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_378bc.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-luikkv\\CheckIncludeFile.c
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_378bc.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_378bc.dir\\CheckIncludeFile.c.obj  /out:cmTC_378bc.exe /implib:cmTC_378bc.lib /pdb:cmTC_378bc.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckTypeSize.cmake:146 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckTypeSize.cmake:271 (__check_type_size_impl)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:318 (check_type_size)"
+    checks:
+      - "Check size of off64_t"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-x64l29"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-x64l29"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_OFF64_T"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-x64l29'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_81a72
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_LARGEFILE64_SOURCE=1 -D__USE_LARGEFILE64  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_81a72.dir\\OFF64_T.c.obj /FdCMakeFiles\\cmTC_81a72.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-x64l29\\OFF64_T.c
+        FAILED: CMakeFiles/cmTC_81a72.dir/OFF64_T.c.obj 
+        C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_LARGEFILE64_SOURCE=1 -D__USE_LARGEFILE64  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_81a72.dir\\OFF64_T.c.obj /FdCMakeFiles\\cmTC_81a72.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-x64l29\\OFF64_T.c
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-x64l29\\OFF64_T.c(29): error C2065: 'off64_t': undeclared identifier
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-x64l29\\OFF64_T.c(30): error C2065: 'off64_t': undeclared identifier
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-x64l29\\OFF64_T.c(31): error C2065: 'off64_t': undeclared identifier
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-x64l29\\OFF64_T.c(32): error C2065: 'off64_t': undeclared identifier
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-x64l29\\OFF64_T.c(33): error C2065: 'off64_t': undeclared identifier
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckTypeSize.cmake:146 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckTypeSize.cmake:271 (__check_type_size_impl)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:322 (check_type_size)"
+    checks:
+      - "Check size of _off64_t"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-jilw96"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-jilw96"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE__OFF64_T"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-jilw96'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_77bcc
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_LARGEFILE64_SOURCE=1 -D__USE_LARGEFILE64  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_77bcc.dir\\_OFF64_T.c.obj /FdCMakeFiles\\cmTC_77bcc.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-jilw96\\_OFF64_T.c
+        FAILED: CMakeFiles/cmTC_77bcc.dir/_OFF64_T.c.obj 
+        C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_LARGEFILE64_SOURCE=1 -D__USE_LARGEFILE64  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_77bcc.dir\\_OFF64_T.c.obj /FdCMakeFiles\\cmTC_77bcc.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-jilw96\\_OFF64_T.c
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-jilw96\\_OFF64_T.c(29): error C2065: '_off64_t': undeclared identifier
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-jilw96\\_OFF64_T.c(30): error C2065: '_off64_t': undeclared identifier
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-jilw96\\_OFF64_T.c(31): error C2065: '_off64_t': undeclared identifier
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-jilw96\\_OFF64_T.c(32): error C2065: '_off64_t': undeclared identifier
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-jilw96\\_OFF64_T.c(33): error C2065: '_off64_t': undeclared identifier
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckTypeSize.cmake:146 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckTypeSize.cmake:271 (__check_type_size_impl)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:326 (check_type_size)"
+    checks:
+      - "Check size of __off64_t"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-4wbdbl"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-4wbdbl"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE___OFF64_T"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-4wbdbl'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_ed167
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_LARGEFILE64_SOURCE=1 -D__USE_LARGEFILE64  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_ed167.dir\\__OFF64_T.c.obj /FdCMakeFiles\\cmTC_ed167.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-4wbdbl\\__OFF64_T.c
+        FAILED: CMakeFiles/cmTC_ed167.dir/__OFF64_T.c.obj 
+        C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_LARGEFILE64_SOURCE=1 -D__USE_LARGEFILE64  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_ed167.dir\\__OFF64_T.c.obj /FdCMakeFiles\\cmTC_ed167.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-4wbdbl\\__OFF64_T.c
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-4wbdbl\\__OFF64_T.c(29): error C2065: '__off64_t': undeclared identifier
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-4wbdbl\\__OFF64_T.c(30): error C2065: '__off64_t': undeclared identifier
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-4wbdbl\\__OFF64_T.c(31): error C2065: '__off64_t': undeclared identifier
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-4wbdbl\\__OFF64_T.c(32): error C2065: '__off64_t': undeclared identifier
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-4wbdbl\\__OFF64_T.c(33): error C2065: '__off64_t': undeclared identifier
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckFunctionExists.cmake:86 (try_compile)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:334 (check_function_exists)"
+    checks:
+      - "Looking for fseeko"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-c70jtc"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-c70jtc"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_FSEEKO"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-c70jtc'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_5b445
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DCHECK_FUNCTION_EXISTS=fseeko /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_5b445.dir\\CheckFunctionExists.c.obj /FdCMakeFiles\\cmTC_5b445.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-c70jtc\\CheckFunctionExists.c
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_5b445.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_5b445.dir\\CheckFunctionExists.c.obj  /out:cmTC_5b445.exe /implib:cmTC_5b445.lib /pdb:cmTC_5b445.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        FAILED: cmTC_5b445.exe 
+        C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_5b445.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_5b445.dir\\CheckFunctionExists.c.obj  /out:cmTC_5b445.exe /implib:cmTC_5b445.lib /pdb:cmTC_5b445.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        LINK Pass 1: command "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_5b445.dir\\CheckFunctionExists.c.obj /out:cmTC_5b445.exe /implib:cmTC_5b445.lib /pdb:cmTC_5b445.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_5b445.dir/intermediate.manifest CMakeFiles\\cmTC_5b445.dir/manifest.res" failed (exit code 1120) with the following output:
+        CheckFunctionExists.c.obj : error LNK2019: unresolved external symbol fseeko referenced in function main\x0d
+        cmTC_5b445.exe : fatal error LNK1120: 1 unresolved externals\x0d
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+
+---
+events:
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:304 (check_include_file)"
+    checks:
+      - "Looking for sys/auxv.h"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-yp9h11"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-yp9h11"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_SYS_AUXV_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-yp9h11'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_baa18
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_baa18.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_baa18.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-yp9h11\\CheckIncludeFile.c
+        FAILED: CMakeFiles/cmTC_baa18.dir/CheckIncludeFile.c.obj 
+        C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_baa18.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_baa18.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-yp9h11\\CheckIncludeFile.c
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-yp9h11\\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'sys/auxv.h': No such file or directory
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:308 (check_include_file)"
+    checks:
+      - "Looking for sys/sdt.h"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-br7paz"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-br7paz"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_SYS_SDT_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-br7paz'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_53583
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_53583.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_53583.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-br7paz\\CheckIncludeFile.c
+        FAILED: CMakeFiles/cmTC_53583.dir/CheckIncludeFile.c.obj 
+        C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_53583.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_53583.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-br7paz\\CheckIncludeFile.c
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-br7paz\\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'sys/sdt.h': No such file or directory
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:312 (check_include_file)"
+    checks:
+      - "Looking for unistd.h"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-qmy1pt"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-qmy1pt"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_UNISTD_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-qmy1pt'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_87bf3
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_87bf3.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_87bf3.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-qmy1pt\\CheckIncludeFile.c
+        FAILED: CMakeFiles/cmTC_87bf3.dir/CheckIncludeFile.c.obj 
+        C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_87bf3.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_87bf3.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-qmy1pt\\CheckIncludeFile.c
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-qmy1pt\\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'unistd.h': No such file or directory
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckTypeSize.cmake:250 (check_include_file)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:318 (check_type_size)"
+    checks:
+      - "Looking for sys/types.h"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-0sw632"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-0sw632"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_SYS_TYPES_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-0sw632'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_ae3e3
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_LARGEFILE64_SOURCE=1 -D__USE_LARGEFILE64  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_ae3e3.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_ae3e3.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-0sw632\\CheckIncludeFile.c
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_ae3e3.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_ae3e3.dir\\CheckIncludeFile.c.obj  /out:cmTC_ae3e3.exe /implib:cmTC_ae3e3.lib /pdb:cmTC_ae3e3.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckTypeSize.cmake:251 (check_include_file)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:318 (check_type_size)"
+    checks:
+      - "Looking for stdint.h"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-bvxrrk"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-bvxrrk"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_STDINT_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-bvxrrk'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_3ff7a
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_LARGEFILE64_SOURCE=1 -D__USE_LARGEFILE64  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_3ff7a.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_3ff7a.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-bvxrrk\\CheckIncludeFile.c
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_3ff7a.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_3ff7a.dir\\CheckIncludeFile.c.obj  /out:cmTC_3ff7a.exe /implib:cmTC_3ff7a.lib /pdb:cmTC_3ff7a.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckTypeSize.cmake:252 (check_include_file)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:318 (check_type_size)"
+    checks:
+      - "Looking for stddef.h"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-pg37i1"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-pg37i1"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_STDDEF_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-pg37i1'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_b0a7b
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_LARGEFILE64_SOURCE=1 -D__USE_LARGEFILE64  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_b0a7b.dir\\CheckIncludeFile.c.obj /FdCMakeFiles\\cmTC_b0a7b.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-pg37i1\\CheckIncludeFile.c
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_b0a7b.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_b0a7b.dir\\CheckIncludeFile.c.obj  /out:cmTC_b0a7b.exe /implib:cmTC_b0a7b.lib /pdb:cmTC_b0a7b.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckTypeSize.cmake:146 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckTypeSize.cmake:271 (__check_type_size_impl)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:318 (check_type_size)"
+    checks:
+      - "Check size of off64_t"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-vjbxw7"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-vjbxw7"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_OFF64_T"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-vjbxw7'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_8b9e2
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_LARGEFILE64_SOURCE=1 -D__USE_LARGEFILE64  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_8b9e2.dir\\OFF64_T.c.obj /FdCMakeFiles\\cmTC_8b9e2.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-vjbxw7\\OFF64_T.c
+        FAILED: CMakeFiles/cmTC_8b9e2.dir/OFF64_T.c.obj 
+        C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_LARGEFILE64_SOURCE=1 -D__USE_LARGEFILE64  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_8b9e2.dir\\OFF64_T.c.obj /FdCMakeFiles\\cmTC_8b9e2.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-vjbxw7\\OFF64_T.c
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-vjbxw7\\OFF64_T.c(29): error C2065: 'off64_t': undeclared identifier
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-vjbxw7\\OFF64_T.c(30): error C2065: 'off64_t': undeclared identifier
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-vjbxw7\\OFF64_T.c(31): error C2065: 'off64_t': undeclared identifier
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-vjbxw7\\OFF64_T.c(32): error C2065: 'off64_t': undeclared identifier
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-vjbxw7\\OFF64_T.c(33): error C2065: 'off64_t': undeclared identifier
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckTypeSize.cmake:146 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckTypeSize.cmake:271 (__check_type_size_impl)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:322 (check_type_size)"
+    checks:
+      - "Check size of _off64_t"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-b4g72p"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-b4g72p"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE__OFF64_T"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-b4g72p'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_76232
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_LARGEFILE64_SOURCE=1 -D__USE_LARGEFILE64  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_76232.dir\\_OFF64_T.c.obj /FdCMakeFiles\\cmTC_76232.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-b4g72p\\_OFF64_T.c
+        FAILED: CMakeFiles/cmTC_76232.dir/_OFF64_T.c.obj 
+        C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_LARGEFILE64_SOURCE=1 -D__USE_LARGEFILE64  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_76232.dir\\_OFF64_T.c.obj /FdCMakeFiles\\cmTC_76232.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-b4g72p\\_OFF64_T.c
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-b4g72p\\_OFF64_T.c(29): error C2065: '_off64_t': undeclared identifier
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-b4g72p\\_OFF64_T.c(30): error C2065: '_off64_t': undeclared identifier
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-b4g72p\\_OFF64_T.c(31): error C2065: '_off64_t': undeclared identifier
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-b4g72p\\_OFF64_T.c(32): error C2065: '_off64_t': undeclared identifier
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-b4g72p\\_OFF64_T.c(33): error C2065: '_off64_t': undeclared identifier
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckTypeSize.cmake:146 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckTypeSize.cmake:271 (__check_type_size_impl)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:326 (check_type_size)"
+    checks:
+      - "Check size of __off64_t"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-8jj8tx"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-8jj8tx"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE___OFF64_T"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-8jj8tx'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_a1a4a
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_LARGEFILE64_SOURCE=1 -D__USE_LARGEFILE64  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_a1a4a.dir\\__OFF64_T.c.obj /FdCMakeFiles\\cmTC_a1a4a.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-8jj8tx\\__OFF64_T.c
+        FAILED: CMakeFiles/cmTC_a1a4a.dir/__OFF64_T.c.obj 
+        C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_LARGEFILE64_SOURCE=1 -D__USE_LARGEFILE64  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_a1a4a.dir\\__OFF64_T.c.obj /FdCMakeFiles\\cmTC_a1a4a.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-8jj8tx\\__OFF64_T.c
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-8jj8tx\\__OFF64_T.c(29): error C2065: '__off64_t': undeclared identifier
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-8jj8tx\\__OFF64_T.c(30): error C2065: '__off64_t': undeclared identifier
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-8jj8tx\\__OFF64_T.c(31): error C2065: '__off64_t': undeclared identifier
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-8jj8tx\\__OFF64_T.c(32): error C2065: '__off64_t': undeclared identifier
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-8jj8tx\\__OFF64_T.c(33): error C2065: '__off64_t': undeclared identifier
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckFunctionExists.cmake:86 (try_compile)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:334 (check_function_exists)"
+    checks:
+      - "Looking for fseeko"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-30jfwg"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-30jfwg"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_FSEEKO"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-30jfwg'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_80c10
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DCHECK_FUNCTION_EXISTS=fseeko /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_80c10.dir\\CheckFunctionExists.c.obj /FdCMakeFiles\\cmTC_80c10.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-30jfwg\\CheckFunctionExists.c
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_80c10.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_80c10.dir\\CheckFunctionExists.c.obj  /out:cmTC_80c10.exe /implib:cmTC_80c10.lib /pdb:cmTC_80c10.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        FAILED: cmTC_80c10.exe 
+        C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_80c10.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_80c10.dir\\CheckFunctionExists.c.obj  /out:cmTC_80c10.exe /implib:cmTC_80c10.lib /pdb:cmTC_80c10.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        LINK Pass 1: command "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_80c10.dir\\CheckFunctionExists.c.obj /out:cmTC_80c10.exe /implib:cmTC_80c10.lib /pdb:cmTC_80c10.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_80c10.dir/intermediate.manifest CMakeFiles\\cmTC_80c10.dir/manifest.res" failed (exit code 1120) with the following output:
+        CheckFunctionExists.c.obj : error LNK2019: unresolved external symbol fseeko referenced in function main\x0d
+        cmTC_80c10.exe : fatal error LNK1120: 1 unresolved externals\x0d
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckFunctionExists.cmake:86 (try_compile)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:339 (check_function_exists)"
+    checks:
+      - "Looking for strerror"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-gx1zd9"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-gx1zd9"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_STRERROR"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-gx1zd9'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_2a46e
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DCHECK_FUNCTION_EXISTS=strerror /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_2a46e.dir\\CheckFunctionExists.c.obj /FdCMakeFiles\\cmTC_2a46e.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-gx1zd9\\CheckFunctionExists.c
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_2a46e.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_2a46e.dir\\CheckFunctionExists.c.obj  /out:cmTC_2a46e.exe /implib:cmTC_2a46e.lib /pdb:cmTC_2a46e.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckSymbolExists.cmake:140 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckSymbolExists.cmake:66 (__CHECK_SYMBOL_EXISTS_IMPL)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:345 (check_symbol_exists)"
+    checks:
+      - "Looking for posix_memalign"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-j8982g"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-j8982g"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_POSIX_MEMALIGN"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-j8982g'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_37089
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_POSIX_C_SOURCE=200112L  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_37089.dir\\CheckSymbolExists.c.obj /FdCMakeFiles\\cmTC_37089.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-j8982g\\CheckSymbolExists.c
+        FAILED: CMakeFiles/cmTC_37089.dir/CheckSymbolExists.c.obj 
+        C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_POSIX_C_SOURCE=200112L  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_37089.dir\\CheckSymbolExists.c.obj /FdCMakeFiles\\cmTC_37089.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-j8982g\\CheckSymbolExists.c
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-j8982g\\CheckSymbolExists.c(8): error C2065: 'posix_memalign': undeclared identifier
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckSymbolExists.cmake:140 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckSymbolExists.cmake:66 (__CHECK_SYMBOL_EXISTS_IMPL)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:352 (check_symbol_exists)"
+    checks:
+      - "Looking for aligned_alloc"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-easuev"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-easuev"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_ALIGNED_ALLOC"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-easuev'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_831c6
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_ISOC11_SOURCE=1  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_831c6.dir\\CheckSymbolExists.c.obj /FdCMakeFiles\\cmTC_831c6.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-easuev\\CheckSymbolExists.c
+        FAILED: CMakeFiles/cmTC_831c6.dir/CheckSymbolExists.c.obj 
+        C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -D_ISOC11_SOURCE=1  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_831c6.dir\\CheckSymbolExists.c.obj /FdCMakeFiles\\cmTC_831c6.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-easuev\\CheckSymbolExists.c
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-easuev\\CheckSymbolExists.c(8): error C2065: 'aligned_alloc': undeclared identifier
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/Internal/CheckCompilerFlag.cmake:18 (cmake_check_source_compiles)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckCCompilerFlag.cmake:51 (cmake_check_compiler_flag)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:371 (check_c_compiler_flag)"
+    checks:
+      - "Performing Test HAVE_NO_INTERPOSITION"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-182mdp"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-182mdp"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_NO_INTERPOSITION"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-182mdp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_aef3c
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_NO_INTERPOSITION  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11   -fno-semantic-interposition /showIncludes /FoCMakeFiles\\cmTC_aef3c.dir\\src.c.obj /FdCMakeFiles\\cmTC_aef3c.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-182mdp\\src.c
+        cl : Command line warning D9002 : ignoring unknown option '-fno-semantic-interposition'
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_aef3c.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_aef3c.dir\\src.c.obj  /out:cmTC_aef3c.exe /implib:cmTC_aef3c.lib /pdb:cmTC_aef3c.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckCSourceCompiles.cmake:52 (cmake_check_source_compiles)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:376 (check_c_source_compiles)"
+    checks:
+      - "Performing Test HAVE_ATTRIBUTE_VISIBILITY_HIDDEN"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-9dd0kj"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-9dd0kj"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_ATTRIBUTE_VISIBILITY_HIDDEN"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-9dd0kj'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_2a5c6
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_ATTRIBUTE_VISIBILITY_HIDDEN  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_2a5c6.dir\\src.c.obj /FdCMakeFiles\\cmTC_2a5c6.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-9dd0kj\\src.c
+        FAILED: CMakeFiles/cmTC_2a5c6.dir/src.c.obj 
+        C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_ATTRIBUTE_VISIBILITY_HIDDEN  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_2a5c6.dir\\src.c.obj /FdCMakeFiles\\cmTC_2a5c6.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-9dd0kj\\src.c
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-9dd0kj\\src.c(2): error C2143: syntax error: missing ')' before '('
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-9dd0kj\\src.c(2): error C2091: function returns function
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-9dd0kj\\src.c(2): error C2143: syntax error: missing ')' before 'string'
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-9dd0kj\\src.c(2): error C2143: syntax error: missing '{' before 'string'
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-9dd0kj\\src.c(2): error C2059: syntax error: 'string'
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-9dd0kj\\src.c(2): error C2059: syntax error: ')'
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckCSourceCompiles.cmake:52 (cmake_check_source_compiles)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:390 (check_c_source_compiles)"
+    checks:
+      - "Performing Test HAVE_ATTRIBUTE_VISIBILITY_INTERNAL"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-ascfkz"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-ascfkz"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_ATTRIBUTE_VISIBILITY_INTERNAL"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-ascfkz'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_46935
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_ATTRIBUTE_VISIBILITY_INTERNAL  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_46935.dir\\src.c.obj /FdCMakeFiles\\cmTC_46935.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-ascfkz\\src.c
+        FAILED: CMakeFiles/cmTC_46935.dir/src.c.obj 
+        C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_ATTRIBUTE_VISIBILITY_INTERNAL  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_46935.dir\\src.c.obj /FdCMakeFiles\\cmTC_46935.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-ascfkz\\src.c
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-ascfkz\\src.c(2): error C2143: syntax error: missing ')' before '('
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-ascfkz\\src.c(2): error C2091: function returns function
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-ascfkz\\src.c(2): error C2143: syntax error: missing ')' before 'string'
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-ascfkz\\src.c(2): error C2143: syntax error: missing '{' before 'string'
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-ascfkz\\src.c(2): error C2059: syntax error: 'string'
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-ascfkz\\src.c(2): error C2059: syntax error: ')'
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckCSourceCompiles.cmake:52 (cmake_check_source_compiles)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:404 (check_c_source_compiles)"
+    checks:
+      - "Performing Test HAVE_ATTRIBUTE_ALIGNED"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-5ahqgc"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-5ahqgc"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_ATTRIBUTE_ALIGNED"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-5ahqgc'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_c4eea
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_ATTRIBUTE_ALIGNED  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_c4eea.dir\\src.c.obj /FdCMakeFiles\\cmTC_c4eea.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-5ahqgc\\src.c
+        FAILED: CMakeFiles/cmTC_c4eea.dir/src.c.obj 
+        C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_ATTRIBUTE_ALIGNED  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_c4eea.dir\\src.c.obj /FdCMakeFiles\\cmTC_c4eea.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-5ahqgc\\src.c
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-5ahqgc\\src.c(2): warning C4013: '__attribute__' undefined; assuming extern returning int
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-5ahqgc\\src.c(2): warning C4013: 'aligned' undefined; assuming extern returning int
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-5ahqgc\\src.c(2): error C2143: syntax error: missing ';' before 'type'
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckCSourceCompiles.cmake:52 (cmake_check_source_compiles)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:418 (check_c_source_compiles)"
+    checks:
+      - "Performing Test HAVE_THREAD_LOCAL"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-wxxope"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-wxxope"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_THREAD_LOCAL"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-wxxope'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_c8f25
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_THREAD_LOCAL  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_c8f25.dir\\src.c.obj /FdCMakeFiles\\cmTC_c8f25.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-wxxope\\src.c
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_c8f25.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_c8f25.dir\\src.c.obj  /out:cmTC_c8f25.exe /implib:cmTC_c8f25.lib /pdb:cmTC_c8f25.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckCSourceCompiles.cmake:52 (cmake_check_source_compiles)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:433 (check_c_source_compiles)"
+    checks:
+      - "Performing Test HAVE_BUILTIN_CTZ"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-6xrln4"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-6xrln4"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_BUILTIN_CTZ"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-6xrln4'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_6cf27
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_BUILTIN_CTZ  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_6cf27.dir\\src.c.obj /FdCMakeFiles\\cmTC_6cf27.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-6xrln4\\src.c
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-6xrln4\\src.c(3): warning C4013: '__builtin_ctz' undefined; assuming extern returning int
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_6cf27.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_6cf27.dir\\src.c.obj  /out:cmTC_6cf27.exe /implib:cmTC_6cf27.lib /pdb:cmTC_6cf27.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        FAILED: cmTC_6cf27.exe 
+        C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_6cf27.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_6cf27.dir\\src.c.obj  /out:cmTC_6cf27.exe /implib:cmTC_6cf27.lib /pdb:cmTC_6cf27.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        LINK Pass 1: command "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_6cf27.dir\\src.c.obj /out:cmTC_6cf27.exe /implib:cmTC_6cf27.lib /pdb:cmTC_6cf27.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_6cf27.dir/intermediate.manifest CMakeFiles\\cmTC_6cf27.dir/manifest.res" failed (exit code 1120) with the following output:
+        src.c.obj : error LNK2019: unresolved external symbol __builtin_ctz referenced in function main\x0d
+        cmTC_6cf27.exe : fatal error LNK1120: 1 unresolved externals\x0d
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckCSourceCompiles.cmake:52 (cmake_check_source_compiles)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:449 (check_c_source_compiles)"
+    checks:
+      - "Performing Test HAVE_BUILTIN_CTZLL"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-8o4sqo"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-8o4sqo"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_BUILTIN_CTZLL"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-8o4sqo'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_94b6c
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_BUILTIN_CTZLL  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_94b6c.dir\\src.c.obj /FdCMakeFiles\\cmTC_94b6c.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-8o4sqo\\src.c
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-8o4sqo\\src.c(3): warning C4013: '__builtin_ctzll' undefined; assuming extern returning int
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_94b6c.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_94b6c.dir\\src.c.obj  /out:cmTC_94b6c.exe /implib:cmTC_94b6c.lib /pdb:cmTC_94b6c.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        FAILED: cmTC_94b6c.exe 
+        C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_94b6c.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_94b6c.dir\\src.c.obj  /out:cmTC_94b6c.exe /implib:cmTC_94b6c.lib /pdb:cmTC_94b6c.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        LINK Pass 1: command "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_94b6c.dir\\src.c.obj /out:cmTC_94b6c.exe /implib:cmTC_94b6c.lib /pdb:cmTC_94b6c.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_94b6c.dir/intermediate.manifest CMakeFiles\\cmTC_94b6c.dir/manifest.res" failed (exit code 1120) with the following output:
+        src.c.obj : error LNK2019: unresolved external symbol __builtin_ctzll referenced in function main\x0d
+        cmTC_94b6c.exe : fatal error LNK1120: 1 unresolved externals\x0d
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckCSourceCompiles.cmake:52 (cmake_check_source_compiles)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:465 (check_c_source_compiles)"
+    checks:
+      - "Performing Test HAVE_PTRDIFF_T"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-75qgtl"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-75qgtl"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_PTRDIFF_T"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-75qgtl'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_49e05
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_PTRDIFF_T  /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_49e05.dir\\src.c.obj /FdCMakeFiles\\cmTC_49e05.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-75qgtl\\src.c
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_49e05.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_49e05.dir\\src.c.obj  /out:cmTC_49e05.exe /implib:cmTC_49e05.lib /pdb:cmTC_49e05.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckCSourceCompiles.cmake:52 (cmake_check_source_compiles)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:493 (check_c_source_compiles)"
+      - "out/build/x64-release/_deps/zlib-src/cmake/detect-intrinsics.cmake:152 (check_c_source_compile_or_run)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:783 (check_avx2_intrinsics)"
+    checks:
+      - "Performing Test HAVE_AVX2_INTRIN"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-xeaxs6"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-xeaxs6"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_AVX2_INTRIN"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-xeaxs6'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_69d99
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_AVX2_INTRIN  /DWIN32 /D_WINDOWS /W3 /arch:AVX2 /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_69d99.dir\\src.c.obj /FdCMakeFiles\\cmTC_69d99.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-xeaxs6\\src.c
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_69d99.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_69d99.dir\\src.c.obj  /out:cmTC_69d99.exe /implib:cmTC_69d99.lib /pdb:cmTC_69d99.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckCSourceCompiles.cmake:52 (cmake_check_source_compiles)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:493 (check_c_source_compiles)"
+      - "out/build/x64-release/_deps/zlib-src/cmake/detect-intrinsics.cmake:63 (check_c_source_compile_or_run)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:801 (check_avx512_intrinsics)"
+    checks:
+      - "Performing Test HAVE_AVX512_INTRIN"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-xa76g1"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-xa76g1"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_AVX512_INTRIN"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-xa76g1'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_1d48c
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_AVX512_INTRIN  /DWIN32 /D_WINDOWS /W3 /arch:AVX512 /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_1d48c.dir\\src.c.obj /FdCMakeFiles\\cmTC_1d48c.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-xa76g1\\src.c
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_1d48c.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_1d48c.dir\\src.c.obj  /out:cmTC_1d48c.exe /implib:cmTC_1d48c.lib /pdb:cmTC_1d48c.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckCSourceCompiles.cmake:52 (cmake_check_source_compiles)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:493 (check_c_source_compiles)"
+      - "out/build/x64-release/_deps/zlib-src/cmake/detect-intrinsics.cmake:79 (check_c_source_compile_or_run)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:801 (check_avx512_intrinsics)"
+    checks:
+      - "Performing Test HAVE_MASK_INTRIN"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-wk6ojr"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-wk6ojr"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_MASK_INTRIN"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-wk6ojr'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_cb184
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_MASK_INTRIN  /DWIN32 /D_WINDOWS /W3 /arch:AVX512 /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_cb184.dir\\src.c.obj /FdCMakeFiles\\cmTC_cb184.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-wk6ojr\\src.c
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_cb184.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_cb184.dir\\src.c.obj  /out:cmTC_cb184.exe /implib:cmTC_cb184.lib /pdb:cmTC_cb184.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckCSourceCompiles.cmake:52 (cmake_check_source_compiles)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:493 (check_c_source_compiles)"
+      - "out/build/x64-release/_deps/zlib-src/cmake/detect-intrinsics.cmake:118 (check_c_source_compile_or_run)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:817 (check_avx512vnni_intrinsics)"
+    checks:
+      - "Performing Test HAVE_AVX512VNNI_INTRIN"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-cm8l69"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-cm8l69"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_AVX512VNNI_INTRIN"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-cm8l69'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_10d8f
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_AVX512VNNI_INTRIN  /DWIN32 /D_WINDOWS /W3 /arch:AVX512 /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_10d8f.dir\\src.c.obj /FdCMakeFiles\\cmTC_10d8f.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-cm8l69\\src.c
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_10d8f.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_10d8f.dir\\src.c.obj  /out:cmTC_10d8f.exe /implib:cmTC_10d8f.lib /pdb:cmTC_10d8f.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckCSourceCompiles.cmake:52 (cmake_check_source_compiles)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:493 (check_c_source_compiles)"
+      - "out/build/x64-release/_deps/zlib-src/cmake/detect-intrinsics.cmake:486 (check_c_source_compile_or_run)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:829 (check_sse42_intrinsics)"
+    checks:
+      - "Performing Test HAVE_SSE42CRC_INLINE_ASM"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-b9i3tv"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-b9i3tv"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_SSE42CRC_INLINE_ASM"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-b9i3tv'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_c4950
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_SSE42CRC_INLINE_ASM  /DWIN32 /D_WINDOWS /W3   /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_c4950.dir\\src.c.obj /FdCMakeFiles\\cmTC_c4950.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-b9i3tv\\src.c
+        FAILED: CMakeFiles/cmTC_c4950.dir/src.c.obj 
+        C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_SSE42CRC_INLINE_ASM  /DWIN32 /D_WINDOWS /W3   /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_c4950.dir\\src.c.obj /FdCMakeFiles\\cmTC_c4950.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-b9i3tv\\src.c
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-b9i3tv\\src.c(4): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-b9i3tv\\src.c(4): error C2065: 'mov': undeclared identifier
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-b9i3tv\\src.c(4): error C2146: syntax error: missing ';' before identifier 'edx'
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-b9i3tv\\src.c(4): error C2065: 'edx': undeclared identifier
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-b9i3tv\\src.c(4): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-b9i3tv\\src.c(4): error C2146: syntax error: missing ';' before identifier 'mov'
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-b9i3tv\\src.c(4): error C2065: 'mov': undeclared identifier
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-b9i3tv\\src.c(4): error C2146: syntax error: missing ';' before identifier 'eax'
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-b9i3tv\\src.c(4): error C2065: 'eax': undeclared identifier
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-b9i3tv\\src.c(4): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-b9i3tv\\src.c(4): error C2146: syntax error: missing ';' before identifier 'crc32'
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-b9i3tv\\src.c(4): error C2065: 'crc32': undeclared identifier
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-b9i3tv\\src.c(4): error C2146: syntax error: missing ';' before identifier 'eax'
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-b9i3tv\\src.c(4): error C2065: 'eax': undeclared identifier
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-b9i3tv\\src.c(4): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-b9i3tv\\src.c(4): error C2065: 'edx': undeclared identifier
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-b9i3tv\\src.c(4): error C2146: syntax error: missing ';' before identifier 'mov'
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-b9i3tv\\src.c(4): error C2065: 'mov': undeclared identifier
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-b9i3tv\\src.c(4): error C2146: syntax error: missing ';' before identifier 'h'
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-b9i3tv\\src.c(4): error C2065: 'eax': undeclared identifier
+        C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-b9i3tv\\src.c(4): error C2143: syntax error: missing ';' before '}'
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckCSourceCompiles.cmake:52 (cmake_check_source_compiles)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:493 (check_c_source_compiles)"
+      - "out/build/x64-release/_deps/zlib-src/cmake/detect-intrinsics.cmake:499 (check_c_source_compile_or_run)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:829 (check_sse42_intrinsics)"
+    checks:
+      - "Performing Test HAVE_SSE42CRC_INTRIN"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-43f7uu"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-43f7uu"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_SSE42CRC_INTRIN"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-43f7uu'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_397e6
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_SSE42CRC_INTRIN  /DWIN32 /D_WINDOWS /W3   /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_397e6.dir\\src.c.obj /FdCMakeFiles\\cmTC_397e6.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-43f7uu\\src.c
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_397e6.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_397e6.dir\\src.c.obj  /out:cmTC_397e6.exe /implib:cmTC_397e6.lib /pdb:cmTC_397e6.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckCSourceCompiles.cmake:52 (cmake_check_source_compiles)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:493 (check_c_source_compiles)"
+      - "out/build/x64-release/_deps/zlib-src/cmake/detect-intrinsics.cmake:432 (check_c_source_compile_or_run)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:844 (check_sse2_intrinsics)"
+    checks:
+      - "Performing Test HAVE_SSE2_INTRIN"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-s9h3yd"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-s9h3yd"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_SSE2_INTRIN"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-s9h3yd'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_53923
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_SSE2_INTRIN  /DWIN32 /D_WINDOWS /W3   /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_53923.dir\\src.c.obj /FdCMakeFiles\\cmTC_53923.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-s9h3yd\\src.c
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_53923.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_53923.dir\\src.c.obj  /out:cmTC_53923.exe /implib:cmTC_53923.lib /pdb:cmTC_53923.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckCSourceCompiles.cmake:52 (cmake_check_source_compiles)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:493 (check_c_source_compiles)"
+      - "out/build/x64-release/_deps/zlib-src/cmake/detect-intrinsics.cmake:458 (check_c_source_compile_or_run)"
+      - "out/build/x64-release/_deps/zlib-src/CMakeLists.txt:861 (check_ssse3_intrinsics)"
+    checks:
+      - "Performing Test HAVE_SSSE3_INTRIN"
+    directories:
+      source: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-17eya1"
+      binary: "C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-17eya1"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+      CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/C++/LoginAppProject/out/build/x64-release/_deps/cpr-src/cmake;"
+    buildResult:
+      variable: "HAVE_SSSE3_INTRIN"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/C++/LoginAppProject/out/build/x64-release/CMakeFiles/CMakeScratch/TryCompile-17eya1'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_211e2
+        [1/2] C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo -DHAVE_SSSE3_INTRIN  /DWIN32 /D_WINDOWS /W3   /MDd /Zi /Ob0 /Od /RTC1 -std:c11 /showIncludes /FoCMakeFiles\\cmTC_211e2.dir\\src.c.obj /FdCMakeFiles\\cmTC_211e2.dir\\ /FS -c C:\\C++\\LoginAppProject\\out\\build\\x64-release\\CMakeFiles\\CMakeScratch\\TryCompile-17eya1\\src.c
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_211e2.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_211e2.dir\\src.c.obj  /out:cmTC_211e2.exe /implib:cmTC_211e2.lib /pdb:cmTC_211e2.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0

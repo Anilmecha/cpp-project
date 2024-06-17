@@ -1,0 +1,10 @@
+^C:\C++\LOGINAPPPROJECT\BUILD\_DEPS\CPR-SUBBUILD\CMAKEFILES\945B992B68E3820FC479C232AC2B52EE\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/C++/LoginAppProject/build/_deps/cpr-subbuild -BC:/C++/LoginAppProject/build/_deps/cpr-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/C++/LoginAppProject/build/_deps/cpr-subbuild/cpr-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

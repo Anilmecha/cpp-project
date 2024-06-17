@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/C++/LoginAppProject/build/_deps/zlib-subbuild/CMakeFiles/zlib-populate"
+		},
+		{
+			"file" : "C:/C++/LoginAppProject/build/_deps/zlib-subbuild/CMakeFiles/38b7ad625c18b8c3eb1b07989ef43eab/zlib-populate.rule"
+		},
+		{
+			"file" : "C:/C++/LoginAppProject/build/_deps/zlib-subbuild/CMakeFiles/133b9aaffdf3588a3eb417ee8a74ee68/zlib-populate-complete.rule"
+		},
+		{
+			"file" : "C:/C++/LoginAppProject/build/_deps/zlib-subbuild/CMakeFiles/fcca1f9b2b42d274acea610237ce6844/zlib-populate-build.rule"
+		},
+		{
+			"file" : "C:/C++/LoginAppProject/build/_deps/zlib-subbuild/CMakeFiles/fcca1f9b2b42d274acea610237ce6844/zlib-populate-configure.rule"
+		},
+		{
+			"file" : "C:/C++/LoginAppProject/build/_deps/zlib-subbuild/CMakeFiles/fcca1f9b2b42d274acea610237ce6844/zlib-populate-download.rule"
+		},
+		{
+			"file" : "C:/C++/LoginAppProject/build/_deps/zlib-subbuild/CMakeFiles/fcca1f9b2b42d274acea610237ce6844/zlib-populate-install.rule"
+		},
+		{
+			"file" : "C:/C++/LoginAppProject/build/_deps/zlib-subbuild/CMakeFiles/fcca1f9b2b42d274acea610237ce6844/zlib-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/C++/LoginAppProject/build/_deps/zlib-subbuild/CMakeFiles/fcca1f9b2b42d274acea610237ce6844/zlib-populate-patch.rule"
+		},
+		{
+			"file" : "C:/C++/LoginAppProject/build/_deps/zlib-subbuild/CMakeFiles/fcca1f9b2b42d274acea610237ce6844/zlib-populate-test.rule"
+		},
+		{
+			"file" : "C:/C++/LoginAppProject/build/_deps/zlib-subbuild/CMakeFiles/fcca1f9b2b42d274acea610237ce6844/zlib-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"zlib-populate"
+		],
+		"name" : "zlib-populate"
+	}
+}

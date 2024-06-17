@@ -1,0 +1,152 @@
+^C:\C++\LOGINAPPPROJECT\BUILD\_DEPS\CURL-SUBBUILD\CMAKEFILES\05A0BE6C5027E8E55F1221793B628797\CURL-POPULATE-MKDIR.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -Dcfgdir=/Debug -P C:/C++/LoginAppProject/build/_deps/curl-subbuild/curl-populate-prefix/tmp/curl-populate-mkdirs.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch C:/C++/LoginAppProject/build/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/Debug/curl-populate-mkdir
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\C++\LOGINAPPPROJECT\BUILD\_DEPS\CURL-SUBBUILD\CMAKEFILES\05A0BE6C5027E8E55F1221793B628797\CURL-POPULATE-DOWNLOAD.RULE
+setlocal
+cd C:\C++\LoginAppProject\build\_deps
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -P C:/C++/LoginAppProject/build/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/download-curl-populate.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -P C:/C++/LoginAppProject/build/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/verify-curl-populate.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -P C:/C++/LoginAppProject/build/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/extract-curl-populate.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch C:/C++/LoginAppProject/build/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/Debug/curl-populate-download
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\C++\LOGINAPPPROJECT\BUILD\_DEPS\CURL-SUBBUILD\CMAKEFILES\05A0BE6C5027E8E55F1221793B628797\CURL-POPULATE-UPDATE.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch C:/C++/LoginAppProject/build/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/Debug/curl-populate-update
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\C++\LOGINAPPPROJECT\BUILD\_DEPS\CURL-SUBBUILD\CMAKEFILES\05A0BE6C5027E8E55F1221793B628797\CURL-POPULATE-PATCH.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch C:/C++/LoginAppProject/build/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/Debug/curl-populate-patch
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\C++\LOGINAPPPROJECT\BUILD\_DEPS\CURL-SUBBUILD\CMAKEFILES\05A0BE6C5027E8E55F1221793B628797\CURL-POPULATE-CONFIGURE.RULE
+setlocal
+cd C:\C++\LoginAppProject\build\_deps\curl-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch C:/C++/LoginAppProject/build/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/Debug/curl-populate-configure
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\C++\LOGINAPPPROJECT\BUILD\_DEPS\CURL-SUBBUILD\CMAKEFILES\05A0BE6C5027E8E55F1221793B628797\CURL-POPULATE-BUILD.RULE
+setlocal
+cd C:\C++\LoginAppProject\build\_deps\curl-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch C:/C++/LoginAppProject/build/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/Debug/curl-populate-build
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\C++\LOGINAPPPROJECT\BUILD\_DEPS\CURL-SUBBUILD\CMAKEFILES\05A0BE6C5027E8E55F1221793B628797\CURL-POPULATE-INSTALL.RULE
+setlocal
+cd C:\C++\LoginAppProject\build\_deps\curl-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch C:/C++/LoginAppProject/build/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/Debug/curl-populate-install
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\C++\LOGINAPPPROJECT\BUILD\_DEPS\CURL-SUBBUILD\CMAKEFILES\05A0BE6C5027E8E55F1221793B628797\CURL-POPULATE-TEST.RULE
+setlocal
+cd C:\C++\LoginAppProject\build\_deps\curl-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch C:/C++/LoginAppProject/build/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/Debug/curl-populate-test
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\C++\LOGINAPPPROJECT\BUILD\_DEPS\CURL-SUBBUILD\CMAKEFILES\C6EA543EC97C76E3A4618826D95DA329\CURL-POPULATE-COMPLETE.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E make_directory C:/C++/LoginAppProject/build/_deps/curl-subbuild/CMakeFiles/Debug
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch C:/C++/LoginAppProject/build/_deps/curl-subbuild/CMakeFiles/Debug/curl-populate-complete
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E touch C:/C++/LoginAppProject/build/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/Debug/curl-populate-done
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\C++\LOGINAPPPROJECT\BUILD\_DEPS\CURL-SUBBUILD\CMAKEFILES\C3D95E96744FB81CF1A9CABA28ACEA90\CURL-POPULATE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\C++\LOGINAPPPROJECT\BUILD\_DEPS\CURL-SUBBUILD\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/C++/LoginAppProject/build/_deps/curl-subbuild -BC:/C++/LoginAppProject/build/_deps/curl-subbuild --check-stamp-file C:/C++/LoginAppProject/build/_deps/curl-subbuild/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,21 @@
+# ninja log v5
+5	216	7402689840153197	curl-populate-prefix/src/curl-populate-stamp/curl-populate-mkdir	b9843944b8d5571c
+6442	6643	7402689904465375	curl-populate-prefix/src/curl-populate-stamp/curl-populate-update	e6b02fef54ba2bde
+5	216	7402689840153197	C:/C++/LoginAppProject/out/build/x64-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-mkdir	b9843944b8d5571c
+216	6442	7402689902440232	curl-populate-prefix/src/curl-populate-stamp/curl-populate-download	9b7c721a00fc7373
+6658	6859	7402689906594395	C:/C++/LoginAppProject/out/build/x64-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-patch	192487cf01d4cc24
+7684	7947	7402689917459023	curl-populate-prefix/src/curl-populate-stamp/curl-populate-done	4ab15496afd209ae
+216	6442	7402689902440232	C:/C++/LoginAppProject/out/build/x64-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-download	9b7c721a00fc7373
+6442	6643	7402689904465375	C:/C++/LoginAppProject/out/build/x64-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-update	e6b02fef54ba2bde
+6658	6859	7402689906594395	curl-populate-prefix/src/curl-populate-stamp/curl-populate-patch	192487cf01d4cc24
+7482	7683	7402689914900889	curl-populate-prefix/src/curl-populate-stamp/curl-populate-test	1a099be2134acd25
+7482	7683	7402689914900889	C:/C++/LoginAppProject/out/build/x64-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-test	1a099be2134acd25
+6859	7070	7402689908727262	curl-populate-prefix/src/curl-populate-stamp/curl-populate-configure	9fadea9aedab8ba2
+6859	7070	7402689908727262	C:/C++/LoginAppProject/out/build/x64-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-configure	9fadea9aedab8ba2
+7070	7276	7402689910758496	curl-populate-prefix/src/curl-populate-stamp/curl-populate-build	6d88691871c9b773
+7070	7276	7402689910758496	C:/C++/LoginAppProject/out/build/x64-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-build	6d88691871c9b773
+7277	7481	7402689912878056	curl-populate-prefix/src/curl-populate-stamp/curl-populate-install	27c3fdf67f85a2cc
+7277	7481	7402689912878056	C:/C++/LoginAppProject/out/build/x64-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-install	27c3fdf67f85a2cc
+7684	7947	7402689917459023	CMakeFiles/curl-populate-complete	4ab15496afd209ae
+7684	7947	7402689917459023	C:/C++/LoginAppProject/out/build/x64-debug/_deps/curl-subbuild/CMakeFiles/curl-populate-complete	4ab15496afd209ae
+7684	7947	7402689917459023	C:/C++/LoginAppProject/out/build/x64-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-done	4ab15496afd209ae

@@ -1,0 +1,3 @@
+C:/C++/LoginAppProject/out/build/x64-debug/_deps/curl-subbuild/CMakeFiles/curl-populate.dir
+C:/C++/LoginAppProject/out/build/x64-debug/_deps/curl-subbuild/CMakeFiles/edit_cache.dir
+C:/C++/LoginAppProject/out/build/x64-debug/_deps/curl-subbuild/CMakeFiles/rebuild_cache.dir

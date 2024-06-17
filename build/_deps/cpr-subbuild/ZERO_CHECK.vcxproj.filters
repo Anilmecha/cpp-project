@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\_deps\cpr-subbuild\CMakeFiles\945b992b68e3820fc479c232ac2b52ee\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{CBE86961-95A8-307E-90E1-A70ABF6232C0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

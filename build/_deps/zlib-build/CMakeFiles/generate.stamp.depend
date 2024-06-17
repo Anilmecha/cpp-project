@@ -1,0 +1,27 @@
+# CMake generation dependency list for this directory.
+C:/C++/LoginAppProject/build/_deps/zlib-build/zconf.h.cmakein
+C:/C++/LoginAppProject/build/_deps/zlib-src/CMakeLists.txt
+C:/C++/LoginAppProject/build/_deps/zlib-src/cmake/detect-arch.cmake
+C:/C++/LoginAppProject/build/_deps/zlib-src/cmake/detect-coverage.cmake
+C:/C++/LoginAppProject/build/_deps/zlib-src/cmake/detect-install-dirs.cmake
+C:/C++/LoginAppProject/build/_deps/zlib-src/cmake/detect-intrinsics.cmake
+C:/C++/LoginAppProject/build/_deps/zlib-src/cmake/detect-sanitizer.cmake
+C:/C++/LoginAppProject/build/_deps/zlib-src/cmake/fallback-macros.cmake
+C:/C++/LoginAppProject/build/_deps/zlib-src/gzread.c.in
+C:/C++/LoginAppProject/build/_deps/zlib-src/zlib.h.in
+C:/C++/LoginAppProject/build/_deps/zlib-src/zlib.pc.cmakein
+C:/C++/LoginAppProject/build/_deps/zlib-src/zlib_name_mangling.h.empty
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeDependentOption.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckCCompilerFlag.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckCSourceRuns.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckFunctionExists.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckIncludeFile.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckSymbolExists.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CheckTypeSize.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/FeatureSummary.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/GNUInstallDirs.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/Internal/CheckCompilerFlag.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake
+C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/Internal/CheckSourceRuns.cmake

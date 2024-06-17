@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/C++/LoginAppProject/build/_deps/curl-subbuild/CMakeFiles/curl-populate"
+		},
+		{
+			"file" : "C:/C++/LoginAppProject/build/_deps/curl-subbuild/CMakeFiles/c3d95e96744fb81cf1a9caba28acea90/curl-populate.rule"
+		},
+		{
+			"file" : "C:/C++/LoginAppProject/build/_deps/curl-subbuild/CMakeFiles/c6ea543ec97c76e3a4618826d95da329/curl-populate-complete.rule"
+		},
+		{
+			"file" : "C:/C++/LoginAppProject/build/_deps/curl-subbuild/CMakeFiles/05a0be6c5027e8e55f1221793b628797/curl-populate-build.rule"
+		},
+		{
+			"file" : "C:/C++/LoginAppProject/build/_deps/curl-subbuild/CMakeFiles/05a0be6c5027e8e55f1221793b628797/curl-populate-configure.rule"
+		},
+		{
+			"file" : "C:/C++/LoginAppProject/build/_deps/curl-subbuild/CMakeFiles/05a0be6c5027e8e55f1221793b628797/curl-populate-download.rule"
+		},
+		{
+			"file" : "C:/C++/LoginAppProject/build/_deps/curl-subbuild/CMakeFiles/05a0be6c5027e8e55f1221793b628797/curl-populate-install.rule"
+		},
+		{
+			"file" : "C:/C++/LoginAppProject/build/_deps/curl-subbuild/CMakeFiles/05a0be6c5027e8e55f1221793b628797/curl-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/C++/LoginAppProject/build/_deps/curl-subbuild/CMakeFiles/05a0be6c5027e8e55f1221793b628797/curl-populate-patch.rule"
+		},
+		{
+			"file" : "C:/C++/LoginAppProject/build/_deps/curl-subbuild/CMakeFiles/05a0be6c5027e8e55f1221793b628797/curl-populate-test.rule"
+		},
+		{
+			"file" : "C:/C++/LoginAppProject/build/_deps/curl-subbuild/CMakeFiles/05a0be6c5027e8e55f1221793b628797/curl-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"curl-populate"
+		],
+		"name" : "curl-populate"
+	}
+}

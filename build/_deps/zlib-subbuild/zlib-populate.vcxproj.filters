@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\_deps\zlib-subbuild\CMakeFiles\fcca1f9b2b42d274acea610237ce6844\zlib-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\_deps\zlib-subbuild\CMakeFiles\fcca1f9b2b42d274acea610237ce6844\zlib-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\_deps\zlib-subbuild\CMakeFiles\fcca1f9b2b42d274acea610237ce6844\zlib-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\_deps\zlib-subbuild\CMakeFiles\fcca1f9b2b42d274acea610237ce6844\zlib-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\_deps\zlib-subbuild\CMakeFiles\fcca1f9b2b42d274acea610237ce6844\zlib-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\_deps\zlib-subbuild\CMakeFiles\fcca1f9b2b42d274acea610237ce6844\zlib-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\_deps\zlib-subbuild\CMakeFiles\fcca1f9b2b42d274acea610237ce6844\zlib-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\_deps\zlib-subbuild\CMakeFiles\fcca1f9b2b42d274acea610237ce6844\zlib-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\_deps\zlib-subbuild\CMakeFiles\133b9aaffdf3588a3eb417ee8a74ee68\zlib-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\_deps\zlib-subbuild\CMakeFiles\38b7ad625c18b8c3eb1b07989ef43eab\zlib-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\_deps\zlib-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\C++\LoginAppProject\build\_deps\zlib-subbuild\CMakeFiles\zlib-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E4741967-7D2E-32B0-A856-CA3C8AD3CA59}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

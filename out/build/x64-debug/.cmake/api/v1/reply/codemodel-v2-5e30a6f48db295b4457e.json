@@ -1,0 +1,322 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "_deps/cpr-build",
+					"childIndexes" : 
+					[
+						2,
+						3,
+						8,
+						9
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.cpr-build-Debug-cc4c77e63d8a75ae3963.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "out/build/x64-debug/_deps/cpr-src"
+				},
+				{
+					"build" : "_deps/zlib-build",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.zlib-build-Debug-1dc97b0684303416707a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.1"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "out/build/x64-debug/_deps/zlib-src",
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"build" : "_deps/curl-build",
+					"childIndexes" : 
+					[
+						4,
+						7
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.curl-build-Debug-645ab9eb1f5dff50decb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.7"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 3,
+					"source" : "out/build/x64-debug/_deps/curl-src",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "_deps/curl-build/docs",
+					"childIndexes" : 
+					[
+						5
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.curl-build.docs-Debug-cb4a8b4cabbe019cb417.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.7"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 3,
+					"source" : "out/build/x64-debug/_deps/curl-src/docs"
+				},
+				{
+					"build" : "_deps/curl-build/docs/libcurl",
+					"childIndexes" : 
+					[
+						6
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.curl-build.docs.libcurl-Debug-41a0ff3dbc398f4707c1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.7"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 3,
+					"source" : "out/build/x64-debug/_deps/curl-src/docs/libcurl",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "_deps/curl-build/docs/libcurl/opts",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.curl-build.docs.libcurl.opts-Debug-1ca642348c18ab0ba5dc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.7"
+					},
+					"parentIndex" : 5,
+					"projectIndex" : 3,
+					"source" : "out/build/x64-debug/_deps/curl-src/docs/libcurl/opts",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "_deps/curl-build/lib",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.curl-build.lib-Debug-c6e2c9f0d79cd392aa0e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.7"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 3,
+					"source" : "out/build/x64-debug/_deps/curl-src/lib",
+					"targetIndexes" : 
+					[
+						3,
+						4
+					]
+				},
+				{
+					"build" : "_deps/cpr-build/cpr",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.cpr-build.cpr-Debug-270d343eec70c8ee7808.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "out/build/x64-debug/_deps/cpr-src/cpr",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "_deps/cpr-build/include",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-_deps.cpr-build.include-Debug-dc827a5d56a53d2981f6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "out/build/x64-debug/_deps/cpr-src/include"
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LoginAppProject",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						2,
+						3
+					],
+					"directoryIndexes" : 
+					[
+						1,
+						8,
+						9
+					],
+					"name" : "cpr",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "zlib",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3,
+						4,
+						5,
+						6,
+						7
+					],
+					"name" : "CURL",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "LoginAppProject::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LoginAppProject-Debug-e6b056e03da5db5d6566.json",
+					"name" : "LoginAppProject",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "cpr::@c4b08663df96993e8225",
+					"jsonFile" : "target-cpr-Debug-f2bee90be9b6d28d1cad.json",
+					"name" : "cpr",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "curl_uninstall::@b95861b2ba384b5171eb",
+					"jsonFile" : "target-curl_uninstall-Debug-67513214c282b5e5d773.json",
+					"name" : "curl_uninstall",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "libcurl_object::@7349aeacaff41deceb36",
+					"jsonFile" : "target-libcurl_object-Debug-f82af4ca2702b3be8616.json",
+					"name" : "libcurl_object",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "libcurl_shared::@7349aeacaff41deceb36",
+					"jsonFile" : "target-libcurl_shared-Debug-d579feb9823b2a50379b.json",
+					"name" : "libcurl_shared",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "man::@2578f1a13a47df1940c2",
+					"jsonFile" : "target-man-Debug-8a0a990ce383b9447d36.json",
+					"name" : "man",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "opts-man::@fe02a9ef8a74f0774785",
+					"jsonFile" : "target-opts-man-Debug-82946c6fcc3531f6aa05.json",
+					"name" : "opts-man",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "zlib::@c9556b0b6bf47963f9da",
+					"jsonFile" : "target-zlib-Debug-41d2b49d63d5c2a30c39.json",
+					"name" : "zlib",
+					"projectIndex" : 2
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/C++/LoginAppProject/out/build/x64-debug",
+		"source" : "C:/C++/LoginAppProject"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

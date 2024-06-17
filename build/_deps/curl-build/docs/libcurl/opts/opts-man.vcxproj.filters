@@ -1,0 +1,1214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_ACTIVESOCKET.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_APPCONNECT_TIME.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_APPCONNECT_TIME_T.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_CAINFO.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_CAPATH.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_CERTINFO.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_CONDITION_UNMET.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_CONNECT_TIME.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_CONNECT_TIME_T.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_CONN_ID.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_CONTENT_LENGTH_DOWNLOAD.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_CONTENT_LENGTH_DOWNLOAD_T.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_CONTENT_LENGTH_UPLOAD.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_CONTENT_LENGTH_UPLOAD_T.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_CONTENT_TYPE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_COOKIELIST.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_EFFECTIVE_METHOD.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_EFFECTIVE_URL.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_FILETIME.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_FILETIME_T.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_FTP_ENTRY_PATH.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_HEADER_SIZE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_HTTPAUTH_AVAIL.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_HTTP_CONNECTCODE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_HTTP_VERSION.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_LASTSOCKET.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_LOCAL_IP.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_LOCAL_PORT.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_NAMELOOKUP_TIME.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_NAMELOOKUP_TIME_T.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_NUM_CONNECTS.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_OS_ERRNO.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_PRETRANSFER_TIME.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_PRETRANSFER_TIME_T.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_PRIMARY_IP.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_PRIMARY_PORT.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_PRIVATE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_PROTOCOL.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_PROXYAUTH_AVAIL.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_PROXY_ERROR.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_PROXY_SSL_VERIFYRESULT.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_QUEUE_TIME_T.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_REDIRECT_COUNT.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_REDIRECT_TIME.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_REDIRECT_TIME_T.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_REDIRECT_URL.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_REFERER.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_REQUEST_SIZE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_RESPONSE_CODE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_RETRY_AFTER.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_RTSP_CLIENT_CSEQ.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_RTSP_CSEQ_RECV.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_RTSP_SERVER_CSEQ.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_RTSP_SESSION_ID.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_SCHEME.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_SIZE_DOWNLOAD.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_SIZE_DOWNLOAD_T.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_SIZE_UPLOAD.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_SIZE_UPLOAD_T.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_SPEED_DOWNLOAD.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_SPEED_DOWNLOAD_T.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_SPEED_UPLOAD.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_SPEED_UPLOAD_T.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_SSL_ENGINES.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_SSL_VERIFYRESULT.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_STARTTRANSFER_TIME.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_STARTTRANSFER_TIME_T.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_TLS_SESSION.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_TLS_SSL_PTR.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_TOTAL_TIME.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_TOTAL_TIME_T.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_USED_PROXY.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLINFO_XFER_ID.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLMOPT_CHUNK_LENGTH_PENALTY_SIZE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLMOPT_CONTENT_LENGTH_PENALTY_SIZE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLMOPT_MAXCONNECTS.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLMOPT_MAX_CONCURRENT_STREAMS.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLMOPT_MAX_HOST_CONNECTIONS.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLMOPT_MAX_PIPELINE_LENGTH.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLMOPT_MAX_TOTAL_CONNECTIONS.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLMOPT_PIPELINING.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLMOPT_PIPELINING_SERVER_BL.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLMOPT_PIPELINING_SITE_BL.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLMOPT_PUSHDATA.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLMOPT_PUSHFUNCTION.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLMOPT_SOCKETDATA.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLMOPT_SOCKETFUNCTION.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLMOPT_TIMERDATA.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLMOPT_TIMERFUNCTION.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_ABSTRACT_UNIX_SOCKET.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_ACCEPTTIMEOUT_MS.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_ACCEPT_ENCODING.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_ADDRESS_SCOPE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_ALTSVC.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_ALTSVC_CTRL.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_APPEND.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_AUTOREFERER.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_AWS_SIGV4.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_BUFFERSIZE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_CAINFO.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_CAINFO_BLOB.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_CAPATH.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_CA_CACHE_TIMEOUT.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_CERTINFO.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_CHUNK_BGN_FUNCTION.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_CHUNK_DATA.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_CHUNK_END_FUNCTION.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_CLOSESOCKETDATA.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_CLOSESOCKETFUNCTION.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_CONNECTTIMEOUT.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_CONNECTTIMEOUT_MS.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_CONNECT_ONLY.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_CONNECT_TO.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_CONV_FROM_NETWORK_FUNCTION.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_CONV_FROM_UTF8_FUNCTION.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_CONV_TO_NETWORK_FUNCTION.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_COOKIE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_COOKIEFILE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_COOKIEJAR.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_COOKIELIST.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_COOKIESESSION.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_COPYPOSTFIELDS.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_CRLF.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_CRLFILE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_CURLU.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_CUSTOMREQUEST.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_DEBUGDATA.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_DEBUGFUNCTION.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_DEFAULT_PROTOCOL.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_DIRLISTONLY.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_DISALLOW_USERNAME_IN_URL.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_DNS_CACHE_TIMEOUT.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_DNS_INTERFACE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_DNS_LOCAL_IP4.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_DNS_LOCAL_IP6.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_DNS_SERVERS.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_DNS_SHUFFLE_ADDRESSES.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_DNS_USE_GLOBAL_CACHE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_DOH_SSL_VERIFYHOST.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_DOH_SSL_VERIFYPEER.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_DOH_SSL_VERIFYSTATUS.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_DOH_URL.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_EGDSOCKET.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_ERRORBUFFER.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_EXPECT_100_TIMEOUT_MS.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_FAILONERROR.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_FILETIME.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_FNMATCH_DATA.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_FNMATCH_FUNCTION.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_FOLLOWLOCATION.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_FORBID_REUSE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_FRESH_CONNECT.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_FTPPORT.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_FTPSSLAUTH.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_FTP_ACCOUNT.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_FTP_ALTERNATIVE_TO_USER.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_FTP_CREATE_MISSING_DIRS.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_FTP_FILEMETHOD.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_FTP_SKIP_PASV_IP.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_FTP_SSL_CCC.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_FTP_USE_EPRT.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_FTP_USE_EPSV.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_FTP_USE_PRET.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_GSSAPI_DELEGATION.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_HAPPY_EYEBALLS_TIMEOUT_MS.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_HAPROXYPROTOCOL.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_HAPROXY_CLIENT_IP.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_HEADER.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_HEADERDATA.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_HEADERFUNCTION.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_HEADEROPT.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_HSTS.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_HSTSREADDATA.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_HSTSREADFUNCTION.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_HSTSWRITEDATA.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_HSTSWRITEFUNCTION.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_HSTS_CTRL.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_HTTP09_ALLOWED.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_HTTP200ALIASES.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_HTTPAUTH.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_HTTPGET.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_HTTPHEADER.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_HTTPPOST.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_HTTPPROXYTUNNEL.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_HTTP_CONTENT_DECODING.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_HTTP_TRANSFER_DECODING.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_HTTP_VERSION.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_IGNORE_CONTENT_LENGTH.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_INFILESIZE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_INFILESIZE_LARGE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_INTERFACE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_INTERLEAVEDATA.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_INTERLEAVEFUNCTION.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_IOCTLDATA.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_IOCTLFUNCTION.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_IPRESOLVE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_ISSUERCERT.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_ISSUERCERT_BLOB.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_KEEP_SENDING_ON_ERROR.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_KEYPASSWD.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_KRBLEVEL.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_LOCALPORT.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_LOCALPORTRANGE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_LOGIN_OPTIONS.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_LOW_SPEED_LIMIT.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_LOW_SPEED_TIME.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_MAIL_AUTH.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_MAIL_FROM.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_MAIL_RCPT.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_MAIL_RCPT_ALLOWFAILS.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_MAXAGE_CONN.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_MAXCONNECTS.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_MAXFILESIZE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_MAXFILESIZE_LARGE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_MAXLIFETIME_CONN.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_MAXREDIRS.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_MAX_RECV_SPEED_LARGE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_MAX_SEND_SPEED_LARGE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_MIMEPOST.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_MIME_OPTIONS.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_NETRC.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_NETRC_FILE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_NEW_DIRECTORY_PERMS.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_NEW_FILE_PERMS.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_NOBODY.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_NOPROGRESS.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_NOPROXY.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_NOSIGNAL.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_OPENSOCKETDATA.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_OPENSOCKETFUNCTION.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_PASSWORD.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_PATH_AS_IS.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_PINNEDPUBLICKEY.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_PIPEWAIT.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_PORT.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_POST.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_POSTFIELDS.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_POSTFIELDSIZE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_POSTFIELDSIZE_LARGE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_POSTQUOTE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_POSTREDIR.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_PREQUOTE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_PREREQDATA.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_PREREQFUNCTION.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_PRE_PROXY.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_PRIVATE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_PROGRESSDATA.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_PROGRESSFUNCTION.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_PROTOCOLS.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_PROTOCOLS_STR.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_PROXY.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_PROXYAUTH.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_PROXYHEADER.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_PROXYPASSWORD.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_PROXYPORT.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_PROXYTYPE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_PROXYUSERNAME.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_PROXYUSERPWD.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_PROXY_CAINFO.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_PROXY_CAINFO_BLOB.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_PROXY_CAPATH.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_PROXY_CRLFILE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_PROXY_ISSUERCERT.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_PROXY_ISSUERCERT_BLOB.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_PROXY_KEYPASSWD.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_PROXY_PINNEDPUBLICKEY.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_PROXY_SERVICE_NAME.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_PROXY_SSLCERT.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_PROXY_SSLCERTTYPE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_PROXY_SSLCERT_BLOB.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_PROXY_SSLKEY.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_PROXY_SSLKEYTYPE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_PROXY_SSLKEY_BLOB.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_PROXY_SSLVERSION.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_PROXY_SSL_CIPHER_LIST.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_PROXY_SSL_OPTIONS.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_PROXY_SSL_VERIFYHOST.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_PROXY_SSL_VERIFYPEER.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_PROXY_TLS13_CIPHERS.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_PROXY_TLSAUTH_PASSWORD.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_PROXY_TLSAUTH_TYPE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_PROXY_TLSAUTH_USERNAME.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_PROXY_TRANSFER_MODE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_PUT.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_QUICK_EXIT.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_QUOTE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_RANDOM_FILE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_RANGE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_READDATA.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_READFUNCTION.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_REDIR_PROTOCOLS.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_REDIR_PROTOCOLS_STR.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_REFERER.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_REQUEST_TARGET.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_RESOLVE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_RESOLVER_START_DATA.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_RESOLVER_START_FUNCTION.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_RESUME_FROM.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_RESUME_FROM_LARGE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_RTSP_CLIENT_CSEQ.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_RTSP_REQUEST.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_RTSP_SERVER_CSEQ.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_RTSP_SESSION_ID.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_RTSP_STREAM_URI.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_RTSP_TRANSPORT.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_SASL_AUTHZID.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_SASL_IR.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_SEEKDATA.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_SEEKFUNCTION.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_SERVER_RESPONSE_TIMEOUT.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_SERVER_RESPONSE_TIMEOUT_MS.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_SERVICE_NAME.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_SHARE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_SOCKOPTDATA.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_SOCKOPTFUNCTION.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_SOCKS5_AUTH.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_SOCKS5_GSSAPI_NEC.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_SOCKS5_GSSAPI_SERVICE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_SSH_AUTH_TYPES.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_SSH_COMPRESSION.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_SSH_HOSTKEYDATA.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_SSH_HOSTKEYFUNCTION.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_SSH_HOST_PUBLIC_KEY_MD5.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_SSH_HOST_PUBLIC_KEY_SHA256.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_SSH_KEYDATA.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_SSH_KEYFUNCTION.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_SSH_KNOWNHOSTS.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_SSH_PRIVATE_KEYFILE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_SSH_PUBLIC_KEYFILE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_SSLCERT.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_SSLCERTTYPE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_SSLCERT_BLOB.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_SSLENGINE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_SSLENGINE_DEFAULT.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_SSLKEY.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_SSLKEYTYPE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_SSLKEY_BLOB.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_SSLVERSION.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_SSL_CIPHER_LIST.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_SSL_CTX_DATA.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_SSL_CTX_FUNCTION.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_SSL_EC_CURVES.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_SSL_ENABLE_ALPN.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_SSL_ENABLE_NPN.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_SSL_FALSESTART.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_SSL_OPTIONS.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_SSL_SESSIONID_CACHE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_SSL_VERIFYHOST.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_SSL_VERIFYPEER.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_SSL_VERIFYSTATUS.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_STDERR.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_STREAM_DEPENDS.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_STREAM_DEPENDS_E.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_STREAM_WEIGHT.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_SUPPRESS_CONNECT_HEADERS.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_TCP_FASTOPEN.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_TCP_KEEPALIVE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_TCP_KEEPIDLE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_TCP_KEEPINTVL.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_TCP_NODELAY.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_TELNETOPTIONS.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_TFTP_BLKSIZE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_TFTP_NO_OPTIONS.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_TIMECONDITION.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_TIMEOUT.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_TIMEOUT_MS.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_TIMEVALUE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_TIMEVALUE_LARGE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_TLS13_CIPHERS.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_TLSAUTH_PASSWORD.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_TLSAUTH_TYPE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_TLSAUTH_USERNAME.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_TRAILERDATA.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_TRAILERFUNCTION.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_TRANSFERTEXT.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_TRANSFER_ENCODING.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_UNIX_SOCKET_PATH.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_UNRESTRICTED_AUTH.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_UPKEEP_INTERVAL_MS.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_UPLOAD.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_UPLOAD_BUFFERSIZE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_URL.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_USERAGENT.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_USERNAME.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_USERPWD.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_USE_SSL.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_VERBOSE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_WILDCARDMATCH.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_WRITEDATA.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_WRITEFUNCTION.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_WS_OPTIONS.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_XFERINFODATA.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_XFERINFOFUNCTION.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLOPT_XOAUTH2_BEARER.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLSHOPT_LOCKFUNC.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLSHOPT_SHARE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLSHOPT_UNLOCKFUNC.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLSHOPT_UNSHARE.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\35a9cb32a2620ebc60fad9759c96cd5c\CURLSHOPT_USERDATA.3.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\CMakeFiles\409f0a1f976617a2280a447a8b737c11\opts-man.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\C++\LoginAppProject\build\_deps\curl-src\docs\libcurl\opts\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\C++\LoginAppProject\build\_deps\curl-build\docs\libcurl\opts\CMakeFiles\opts-man" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{12B5FF4E-AD11-3CF3-9813-B596D2121D0B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+^C:\C++\LOGINAPPPROJECT\BUILD\_DEPS\CURL-SUBBUILD\CMAKEFILES\C3D95E96744FB81CF1A9CABA28ACEA90\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/C++/LoginAppProject/build/_deps/curl-subbuild -BC:/C++/LoginAppProject/build/_deps/curl-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/C++/LoginAppProject/build/_deps/curl-subbuild/curl-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
